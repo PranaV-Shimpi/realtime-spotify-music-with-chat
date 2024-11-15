@@ -1,6 +1,7 @@
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
+![{A4EB21F1-84C1-447B-BB9D-F56BBF06B867}](https://github.com/user-attachments/assets/a7121375-5f6f-41d4-964f-b00259fa646f)
 
 Project Includes following functionalities:
 
